@@ -1,1 +1,1 @@
-# BlogMySql
+# Blog
